@@ -133,7 +133,7 @@ let instruction = close_poll(
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [NinaCodes](https://github.com/nnennaokoye)
 
 ## License
 
